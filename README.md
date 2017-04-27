@@ -1,1 +1,1 @@
-# h-pverk1_vsh
+# Hópverkefni VSH
