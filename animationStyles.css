@@ -1,0 +1,21 @@
+.kassi2{
+  font-size: 200px;
+  color: red;
+  left: 0;
+  top: -5em;
+  position: relative;
+  animation-name: kassi; 
+  animation-duration: 21s;
+  overflow: hidden;
+
+   
+}
+
+
+
+
+@keyframes kassi {
+    from  {left:-90em;}
+}
+
+.left
